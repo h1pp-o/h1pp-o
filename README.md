@@ -3,11 +3,9 @@
 
 <h1 align="center">Hello Everyone 👋, I'm John Park</h1>
 
-I have recently achieved a milestone of finishing my Masters Degree in Business Analytics and Project Management. The more I progress through my data journey, the more I realize the diverse pool of tools and 
+Masters in Business Analytics and Project Management graduate. Eager to learn diverse data tools and technologies. I plan to document projects combining my academic knowledge and online learning on GitHub. Open to collaborations and sharing knowledge.
 
 
-
-I am interested in the engineering aspect of data science. 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
 
@@ -19,7 +17,7 @@ I am interested in the engineering aspect of data science.
 
 - Primary purpose of GitHub is to store and showcase codes for my projects
 
-- I’m currently learning  **Flink, Kafka, Docker, and PySpark**
+- Currently preparing to show my Capstone Project, which includes predictive modeling, clustering analysis, optimization, and forecasting.
 
 - Email Address: **heedong0827@gmail.com**
 
