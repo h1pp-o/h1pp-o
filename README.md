@@ -1,9 +1,8 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyNjY4NjMsIm5iZiI6MTcwMjI2NjU2MywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjExVDAzNDkyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZkYzVlMDgyMzIxM2I2YzIwZDY2ZWQyOWNjMWZhMTRjZjg0OGY4OWM3ODI0ZDFmMWQxN2MwYzQ5OWEzYWExM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RT36bH6xINaQZ0lYGjIRKrQL_--gEutRolF8gBZ1LfA)
 
 
 <h1 align="center">Hello Everyone 👋, I'm John Park</h1>
 
-Masters in Business Analytics and Project Management graduate. Eager to learn diverse data tools and technologies. I plan to document projects combining my academic knowledge and online learning on GitHub. Open to collaborations and sharing knowledge.
+Recently graduated with a 🎓 Master's in Business Analytics and Project Management from the University of Connecticut, I am ***eager*** to apply my academic learnings and passion for 🔨 data engineering and 🤖 machine learning; I'm actively exploring career opportunities in these fields. New to GitHub, I plan to develop my portfolio, featuring academic projects and competition entries that highlight my skills and interests.
 
 
 
@@ -15,11 +14,11 @@ Masters in Business Analytics and Project Management graduate. Eager to learn di
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h1pp-o&label=Profile%20views&color=0e75b6&style=flat" alt="h1pp-o" /> </p>
 
-- Primary purpose of GitHub is to store and showcase codes for my projects
-
 - Currently preparing to show my Capstone Project, which includes predictive modeling, clustering analysis, optimization, and forecasting.
 
 - Email Address: **heedong0827@gmail.com**
+
+- LinkedIn: **https://www.linkedin.com/in/heedong-john-park/**
 
 
 <h3 align="left">Connect with me:</h3>
