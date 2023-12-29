@@ -20,7 +20,7 @@
 
 🎯 Super new to GitHub! Planning to showcase my portfolio, with the Capstone Project as my first. Stay tuned!
 
-🌱 Learning various new tools: Docker, Visual Studio Code, Flink, Spark, Kafka, PySpark
+🌱 Learning various new tools: Docker, Visual Studio Code, Flink, Spark, Kafka, Azure Synapse Analytics, Azure Data Factory
 
 🦛 Fun Fact: Hippos cannot jump!
 
