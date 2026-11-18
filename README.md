@@ -12,15 +12,15 @@
 
 <h1 align="center">👋 I'm John Park</h1>
 
-🎓 Recent Graduate of Master's in Business Analytics and Project Management from the University of Connecticut
+🎓 Graduate of Master's in Business Analytics and Project Management from the University of Connecticut
 
-🖥️ Working as Business Intelligence Analyst Intern
+🖥️ Working as Business Intelligence Developer
 
-🔍 Actively exploring career opportunities in Business Intelligence, Data Engineering, Machine Learning
+🔍 Exploring career opportunities in Analytics Engineering, Data Engineering
 
-🎯 Super new to GitHub! Planning to showcase my portfolio, with the Capstone Project as my first. Stay tuned!
+🎯 New to GitHub.
 
-🌱 Learning various new tools: Docker, Visual Studio Code, Flink, Spark, Kafka, Azure Synapse Analytics, Azure Data Factory
+🌱 Learning new tools: Databricks, AWS, dbt, Fivetran
 
 🦛 Fun Fact: Hippos cannot jump!
 
